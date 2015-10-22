@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="4b9b280b-388b-4928-863e-800cbd2eef7b" 
+        solutionId="4b9b280b-388b-4928-863e-800cbd2eef7b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPFind_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f00e534d-dc48-46de-bf13-0a9561d6f289" />
+  </features>
+</package>

@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "query-string": "^3.0.0",
+    "sp-context-helper": "0.0.4"
+  }
+}
